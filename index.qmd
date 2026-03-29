@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My Analytics Lab"
+title: "Selini çok seviyorum"
 sidebar: false 
 ---
 
