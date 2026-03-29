@@ -5,26 +5,30 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.
 
 # Work Experience
 
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
+1.  Startop App, Co-founder and CMO, 2025 - ongoing
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  Selnikel, Purchasing intern, 2025
 
-2.  Firm bbb, position yyy, year yyy
+2.  Leka Proje, Quality Control intern, 2024
 
 # Projects
 
+1.  Development of an Optimization-Based Decision Support System for Sheet Metal Cutting Planning at HIDROMEK
+
+2.  Development of a Decision Support System for Single Forklift Internal Logistics at HIDROMEK
+
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python, Microsoft Office Package (Excel, Powerpoint, Word), AutoCad 2D-3D, Adobe Premiere Pro, Canva, Matlab,
 
 # Hobbies
+
+Playing and watching basketball, football, volleyball and table tennis. Playing board games.
