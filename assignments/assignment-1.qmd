@@ -5,11 +5,29 @@ title: "Assignment 1"
 # Assignment 1
 
 ```{r}
-1 + 1
+1 + 1 = 2
 ```
 
 My first assignment has two parts.
 
 ## (a)
 
+The video I choose is Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - **Mustafa Baydoğan & Erdi Daşdemir**
+
+**Summary**: Mr. Mustafa explains the main concepts related to data science and forecasting processes with real life applications. The talk focuses on data types, prediction models, the parameters affecting predictions and the consequences of these predictions in decision making processes. In addition, he also mentions ranking algorithms and the extent to which human contribution is still needed in the data and data prediction industry.
+
 ## (b)
+
+**Question 1: Is human involvement still important in the data forecasting industry?**
+
+Answer: Yes, it is still important because human guidance is needed to interpret results, handle imperfect data and make better decisions based on predictions.
+
+**Question 2: What do we call a database format in which each row represents a single observation or example?**
+
+A\) Structured Data (correct answer)
+
+B\) Unstructured Data
+
+C\) Random Data
+
+D\) Visual Data
