@@ -30,7 +30,7 @@ If you want, you can download my CV from here. —–\> [Download my CV](cv.pdf)
 
 # Competencies
 
-R, Quarto, Git, Python, Microsoft Office Package (Excel, Powerpoint, Word), AutoCad 2D-3D, Adobe Premiere Pro, Canva, Matlab,
+R, Quarto, Git, Python, Microsoft Office Package (Excel, Powerpoint, Word), AutoCad 2D-3D, Adobe Premiere Pro, Canva, Matlab, Minitab
 
 # Hobbies
 
