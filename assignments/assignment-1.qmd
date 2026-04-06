@@ -28,7 +28,6 @@ C\) Random Data
 
 D\) Visual Data
 
-
 ## Task 4
 
 ```{r}
