@@ -3,7 +3,7 @@ title: "Our Course Project"
 sidebar: false 
 ---
 
-I'm honored to be a member of the \[R'??yo\] project team.
+I'm honored to be a member of the R'iyo  project team.
 
 Below, you'll find a brief summary of our project. To access a detailed project description, please go to [https://github.com/emu-hacettepe-analytics/emu430-fall2024-team-r-iyo](#0){.uri}.
 
