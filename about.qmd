@@ -3,7 +3,7 @@ title: "About Me"
 sidebar: false 
 ---
 
-If you want, you can download my CV from here. —–\> [Download my CV](cv.pdf)
+If you want, you can download my CV from here. ---> [Download my CV](cv.pdf)
 
 # Education
 
@@ -14,7 +14,7 @@ If you want, you can download my CV from here. —–\> [Download my CV](cv.pdf)
 
 ## Employements
 
-1.  Startop App, Co-founder and CMO, 2025 - ongoing
+1.  Startop App, Co-founder and CMO, 2024 - 2026
 
 ## Internships
 
